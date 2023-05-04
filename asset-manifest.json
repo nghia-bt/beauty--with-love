@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/beauty-with-love/static/css/main.a21907ea.css",
+    "main.css": "/beauty-with-love/static/css/main.f9b2ca69.css",
     "main.js": "/beauty-with-love/static/js/main.560a2761.js",
     "static/js/787.a70aa666.chunk.js": "/beauty-with-love/static/js/787.a70aa666.chunk.js",
     "static/media/Paris4.png": "/beauty-with-love/static/media/Paris4.8c9277df4a312dcf04e7.png",
     "index.html": "/beauty-with-love/index.html",
-    "main.a21907ea.css.map": "/beauty-with-love/static/css/main.a21907ea.css.map",
+    "main.f9b2ca69.css.map": "/beauty-with-love/static/css/main.f9b2ca69.css.map",
     "main.560a2761.js.map": "/beauty-with-love/static/js/main.560a2761.js.map",
     "787.a70aa666.chunk.js.map": "/beauty-with-love/static/js/787.a70aa666.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a21907ea.css",
+    "static/css/main.f9b2ca69.css",
     "static/js/main.560a2761.js"
   ]
 }
